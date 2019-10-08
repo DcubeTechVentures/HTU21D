@@ -3,8 +3,8 @@
         Distributed with a free-will license.
         Use it any way you want, profit or free, provided it fits in the licenses of its associated works.
         HTU21D
-        This code is designed to work with the HTU21D_I2CS I2C Mini Module available from ControlEverything.com.
-        https://shop.controleverything.com/products/quick-response-humidity-and-temperature-sensor-2-rh-0-3-c
+        This code is designed to work with the HTU21D_I2CS I2C Mini Module available from www.dcubestore.com.
+        
 */
 /**************************************************************************/
 
